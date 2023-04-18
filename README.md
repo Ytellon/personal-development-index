@@ -19,4 +19,19 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado/">[Course] </a> <a href=""> PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos (edition: 2023) </a> (0%) ✔️
+      </summary>
+      <ul>
+        <li>
+          Started: 18/04/2023
+        </li>
+        <li>
+          Finished: -
+        </li>
+      </ul>
+      </details>
+  </li>
 <ul>
