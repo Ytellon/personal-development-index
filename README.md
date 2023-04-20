@@ -34,4 +34,19 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/Universidade-Livre/ciencia-da-computacao">[Free Brazilian University] </a> <a href=""> Computer Science </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 20/04/2023
+        </li>
+        <li>
+          Finished: -
+        </li>
+      </ul>
+      </details>
+  </li>
 <ul>
