@@ -22,11 +22,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-<<<<<<< HEAD
         <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado/">[Course] </a> <a href=""> PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos (edition: 2023) </a> (80%) ✔️
-=======
-        <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado/">[Course] </a> <a href=""> PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos (edition: 2023) </a> (20%) ✔️
->>>>>>> 8c895096fe9310e32b3258b2ee56e750c859755c
       </summary>
       <ul>
         <li>
@@ -52,22 +48,4 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
       </details>
-<<<<<<< HEAD
-=======
-  </li>
-  <details> 
-      <summary>
-        <a href="">[Rocketseat] </a> <a href=""> NLW space time </a> (20%)
-      </summary>
-      <ul>
-        <li>
-          Started: -
-        </li>
-        <li>
-          Finished: -
-        </li>
-      </ul>
-      </details>
-  </li>
->>>>>>> 8c895096fe9310e32b3258b2ee56e750c859755c
 <ul>
