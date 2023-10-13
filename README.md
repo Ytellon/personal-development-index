@@ -7,7 +7,7 @@ This is a simple document that aims to list and index evidences of personal deve
  <li>
     <details> 
       <summary>
-        <a href="https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/">[Course] </a> <a href=""> Algorithms and programming Logic (edition: 2023) </a> (0%) ✔️
+        <a href="https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/">[Course] </a> <a href=""> Algorithms and programming Logic (edition: 2023) </a> (85%) ✔️
       </summary>
       <ul>
         <li>
@@ -22,7 +22,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado/">[Course] </a> <a href=""> PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos (edition: 2023) </a> (0%) ✔️
+        <a href="https://www.udemy.com/course/python-3-do-zero-ao-avancado/">[Course] </a> <a href=""> PySide6, Django, Selenium, Regexp, Testes, TDD, POO, Design Patterns GoF, algoritmos (edition: 2023) </a> (80%) ✔️
       </summary>
       <ul>
         <li>
@@ -37,7 +37,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://github.com/Universidade-Livre/ciencia-da-computacao">[Free Brazilian University] </a> <a href=""> Computer Science </a> (0%)
+        <a href="https://descomplica.com.br/faculdade/b/">[Brazilian Graduation] </a> <a href=""> Computer Science </a> (15%)
       </summary>
       <ul>
         <li>
@@ -48,19 +48,4 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
       </details>
-  </li>
-  <details> 
-      <summary>
-        <a href="">[Rocketseat] </a> <a href=""> NLW space time </a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: -
-        </li>
-        <li>
-          Finished: -
-        </li>
-      </ul>
-      </details>
-  </li>
 <ul>
